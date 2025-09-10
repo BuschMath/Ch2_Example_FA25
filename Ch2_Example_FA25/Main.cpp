@@ -9,7 +9,7 @@ void OutputCustomerName();
 
 int main()
 {
-	std::cout << "Customer Information Program" << std::endl;
+	std::cout << "Customer\n Info\n\n\n\nrmation Program" << std::endl;
 	InputCustomerName();
 	OutputCustomerName();
 
